@@ -135,7 +135,4 @@ If you use this dataset, please cite:
 }
 ```
 
-## Related Resources
 
-- [HugoSchtr/debussy-omr-system-lvl](https://huggingface.co/datasets/HugoSchtr/debussy-omr-system-lvl) — HuggingFace version (system-level)
-- [HugoSchtr/debussy-omr-fullpage-lvl](https://huggingface.co/datasets/HugoSchtr/debussy-omr-fullpage-lvl) — HuggingFace version (full-page)
