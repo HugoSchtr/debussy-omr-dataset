@@ -1,0 +1,2209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 4.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="4.0">
+  <movement-number>11</movement-number>
+  <movement-title>Pour les arpèges composés
+</movement-title>
+  <identification>
+    <encoding>
+      <software>MuseScore Studio 4.6.5</software>
+      <encoding-date>2026-02-25</encoding-date>
+      <supports element="accidental" type="yes" />
+      <supports element="beam" type="yes" />
+      <supports element="print" attribute="new-page" type="no" />
+      <supports element="print" attribute="new-system" type="no" />
+      <supports element="stem" type="yes" />
+    </encoding>
+    <source>http://musescore.com/user/4887176/scores/6368039</source>
+    <miscellaneous>
+      <miscellaneous-field name="mscVersion">4.60</miscellaneous-field>
+    </miscellaneous>
+  </identification>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Piano</part-name>
+      <score-instrument id="P1-I1">
+        <instrument-name>Grand Piano</instrument-name>
+        <instrument-sound>keyboard.piano.grand</instrument-sound>
+      </score-instrument>
+      <midi-device id="P1-I1" port="1" />
+      <midi-instrument id="P1-I1">
+        <midi-channel>2</midi-channel>
+        <midi-program>1</midi-program>
+        <volume>78.7402</volume>
+        <pan>17</pan>
+      </midi-instrument>
+    </score-part>
+  </part-list>
+  <part id="P1">
+    <measure number="4">
+      <print new-system="yes" />
+      <direction placement="below">
+        <direction-type>
+          <pedal type="start" line="no" sign="no" />
+        </direction-type>
+        <staff>1</staff>
+      </direction>
+      <attributes>
+        <staves>2</staves>
+        <divisions>24504480</divisions>
+        <key>
+          <fifths>-4</fifths>
+        </key>
+        <time print-object="no">
+          <beats>3</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef number="1">
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+        <clef number="2">
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>5445440</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <time-modification>
+          <actual-notes>18</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <notations print-object="no">
+          <tuplet type="start" bracket="yes" />
+        </notations>
+        <notations>
+          <slur type="start" orientation="under" placement="below" number="1" />
+          <slur type="start" orientation="under" placement="below" number="2" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>2722720</duration>
+        <voice>1</voice>
+        <type size="cue">32nd</type>
+        <time-modification>
+          <actual-notes>18</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <beam number="3">backward hook</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1361360</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <accidental>natural</accidental>
+        <time-modification>
+          <actual-notes>18</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <beam number="3">begin</beam>
+        <beam number="4">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1361360</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>18</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1361360</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>18</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1361360</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <accidental>sharp</accidental>
+        <time-modification>
+          <actual-notes>18</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1361360</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>18</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1361360</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>18</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1361360</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>18</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1361360</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>18</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1361360</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>18</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1361360</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>18</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1361360</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>18</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1361360</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <accidental cautionary="yes" parentheses="no">natural</accidental>
+        <time-modification>
+          <actual-notes>18</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <beam number="3">end</beam>
+        <beam number="4">end</beam>
+        <notations print-object="no">
+          <tuplet type="stop" />
+        </notations>
+        <notations>
+          <slur type="stop" number="3" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1884960</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>13</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <beam number="3">begin</beam>
+        <beam number="4">begin</beam>
+        <notations print-object="no">
+          <tuplet type="start" bracket="yes" />
+        </notations>
+        <notations>
+          <slur type="start" number="4" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1884960</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>13</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1884960</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>13</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1884960</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>13</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1884960</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>13</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1884960</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>13</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1884960</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>13</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1884960</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>13</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1884960</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>13</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1884960</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>13</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1884960</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>13</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1884960</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>13</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1884960</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>13</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <beam number="3">end</beam>
+        <beam number="4">end</beam>
+        <notations print-object="no">
+          <tuplet type="stop" />
+        </notations>
+        <notations>
+          <slur type="stop" number="4" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>1</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type>64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <beam number="3">begin</beam>
+        <beam number="4">begin</beam>
+        <notations print-object="no">
+          <tuplet type="start" bracket="yes" />
+        </notations>
+      </note>
+      <direction placement="below">
+        <direction-type>
+          <pedal type="stop" line="no" sign="no" />
+        </direction-type>
+        <staff>1</staff>
+      </direction>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <accidental>flat</accidental>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <beam number="3">end</beam>
+        <beam number="4">end</beam>
+        <notations print-object="no">
+          <tuplet type="stop" />
+        </notations>
+        <notations>
+          <slur type="stop" number="4" />
+        </notations>
+      </note>
+      <backup>
+        <duration>73513440</duration>
+      </backup>
+      <note print-object="no">
+        <rest />
+        <duration>12252240</duration>
+        <voice>5</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+      <note print-object="no">
+        <rest />
+        <duration>6126120</duration>
+        <voice>5</voice>
+        <type>16th</type>
+        <staff>2</staff>
+      </note>
+      <backup>
+        <duration>4594590</duration>
+      </backup>
+      <attributes>
+        <clef number="2">
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <forward>
+        <duration>4594590</duration>
+      </forward>
+      <note print-object="no">
+        <rest />
+        <duration>3063060</duration>
+        <voice>5</voice>
+        <type>32nd</type>
+        <staff>2</staff>
+      </note>
+      <note print-object="no">
+        <rest />
+        <duration>3063060</duration>
+        <voice>5</voice>
+        <type>32nd</type>
+        <staff>2</staff>
+      </note>
+      <backup>
+        <duration>1531530</duration>
+      </backup>
+      <attributes>
+        <clef number="2">
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <forward>
+        <duration>1531530</duration>
+      </forward>
+      <note print-object="no">
+        <rest />
+        <duration>6126120</duration>
+        <voice>5</voice>
+        <type>16th</type>
+        <staff>2</staff>
+      </note>
+      <note print-object="no">
+        <rest />
+        <duration>3063060</duration>
+        <voice>5</voice>
+        <type>32nd</type>
+        <staff>2</staff>
+      </note>
+      <note print-object="no">
+        <rest />
+        <duration>1531530</duration>
+        <voice>5</voice>
+        <type>64th</type>
+        <staff>2</staff>
+      </note>
+      <attributes>
+        <clef number="2">
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <note print-object="no">
+        <rest />
+        <duration>1531530</duration>
+        <voice>5</voice>
+        <type>64th</type>
+        <staff>2</staff>
+      </note>
+      <note print-object="no">
+        <rest />
+        <duration>6126120</duration>
+        <voice>5</voice>
+        <type>16th</type>
+        <staff>2</staff>
+      </note>
+      <note print-object="no">
+        <rest />
+        <duration>6126120</duration>
+        <voice>5</voice>
+        <type>16th</type>
+        <staff>2</staff>
+      </note>
+      <backup>
+        <duration>4594590</duration>
+      </backup>
+      <attributes>
+        <clef number="2">
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <forward>
+        <duration>4594590</duration>
+      </forward>
+      <note print-object="no">
+        <rest />
+        <duration>12252240</duration>
+        <voice>5</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+      <attributes>
+        <clef number="2">
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <note print-object="no">
+        <rest />
+        <duration>6126120</duration>
+        <voice>5</voice>
+        <type>16th</type>
+        <staff>2</staff>
+      </note>
+      <note print-object="no">
+        <rest />
+        <duration>3063060</duration>
+        <voice>5</voice>
+        <type>32nd</type>
+        <staff>2</staff>
+      </note>
+      <attributes>
+        <clef number="2">
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note print-object="no">
+        <rest />
+        <duration>3063060</duration>
+        <voice>5</voice>
+        <type>32nd</type>
+        <staff>2</staff>
+      </note>
+      <backup>
+        <duration>73513440</duration>
+      </backup>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>24504480</duration>
+        <voice>6</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <staff>2</staff>
+        <notations>
+          <slur type="start" orientation="over" placement="above" number="3" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>21441420</duration>
+        <voice>6</voice>
+        <type>eighth</type>
+        <dot />
+        <dot />
+        <stem>down</stem>
+        <staff>2</staff>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur type="stop" number="1" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>3063060</duration>
+        <voice>6</voice>
+        <type>32nd</type>
+        <stem>down</stem>
+        <staff>2</staff>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+        <beam number="3">backward hook</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>1</octave>
+        </pitch>
+        <duration>24504480</duration>
+        <voice>6</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <staff>2</staff>
+        <notations>
+          <slur type="stop" number="2" />
+          <slur type="start" orientation="over" placement="above" number="4" />
+        </notations>
+      </note>
+    </measure>
+    <measure number="5">
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>4900896</duration>
+        <voice>1</voice>
+        <type>16th</type>
+        <time-modification>
+          <actual-notes>20</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <notehead filled="no">normal</notehead>
+        <staff>2</staff>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <notations print-object="no">
+          <tuplet type="start" bracket="yes" />
+        </notations>
+        <notations>
+          <slur type="start" number="1" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>2450448</duration>
+        <voice>1</voice>
+        <type size="cue">32nd</type>
+        <time-modification>
+          <actual-notes>20</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>2450448</duration>
+        <voice>1</voice>
+        <type size="cue">32nd</type>
+        <time-modification>
+          <actual-notes>20</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <beam number="3">end</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1225224</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>20</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <beam number="3">begin</beam>
+        <beam number="4">begin</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>1225224</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>20</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1225224</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>20</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1225224</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <accidental>sharp</accidental>
+        <time-modification>
+          <actual-notes>20</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1225224</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>20</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1225224</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>20</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1225224</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>20</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1225224</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>20</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1225224</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>20</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>1225224</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>20</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1225224</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>20</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>1225224</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>20</actual-notes>
+          <normal-notes>16</normal-notes>
+          <normal-type>64th</normal-type>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <beam number="3">end</beam>
+        <beam number="4">end</beam>
+        <notations print-object="no">
+          <tuplet type="stop" />
+        </notations>
+        <notations>
+          <slur type="stop" number="2" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <beam number="3">begin</beam>
+        <beam number="4">begin</beam>
+        <notations print-object="no">
+          <tuplet type="start" bracket="yes" />
+        </notations>
+        <notations>
+          <slur type="start" number="3" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>3</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>1750320</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>14</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <beam number="3">end</beam>
+        <beam number="4">end</beam>
+        <notations print-object="no">
+          <tuplet type="stop" />
+        </notations>
+        <notations>
+          <slur type="stop" number="3" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>1633632</duration>
+        <voice>1</voice>
+        <type>64th</type>
+        <time-modification>
+          <actual-notes>15</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <beam number="3">begin</beam>
+        <beam number="4">begin</beam>
+        <notations print-object="no">
+          <tuplet type="start" bracket="yes" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>1633632</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>15</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1633632</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <accidental>natural</accidental>
+        <time-modification>
+          <actual-notes>15</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1633632</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>15</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1633632</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>15</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1633632</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <accidental>natural</accidental>
+        <time-modification>
+          <actual-notes>15</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1633632</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <accidental>natural</accidental>
+        <time-modification>
+          <actual-notes>15</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1633632</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>15</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>5</octave>
+        </pitch>
+        <duration>1633632</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>15</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1633632</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>15</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>E</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1633632</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>15</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>D</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1633632</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>15</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>1633632</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>15</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>G</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1633632</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>15</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>down</stem>
+        <staff>1</staff>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <beam number="3">continue</beam>
+        <beam number="4">continue</beam>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>3</octave>
+        </pitch>
+        <duration>1633632</duration>
+        <voice>1</voice>
+        <type size="cue">64th</type>
+        <time-modification>
+          <actual-notes>15</actual-notes>
+          <normal-notes>16</normal-notes>
+        </time-modification>
+        <stem>up</stem>
+        <staff>2</staff>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <beam number="3">end</beam>
+        <beam number="4">end</beam>
+        <notations print-object="no">
+          <tuplet type="stop" />
+        </notations>
+        <notations>
+          <slur type="stop" number="3" />
+        </notations>
+      </note>
+      <backup>
+        <duration>73513440</duration>
+      </backup>
+      <note print-object="no">
+        <rest />
+        <duration>12252240</duration>
+        <voice>5</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+      <note print-object="no">
+        <rest />
+        <duration>3063060</duration>
+        <voice>5</voice>
+        <type>32nd</type>
+        <staff>2</staff>
+      </note>
+      <attributes>
+        <clef number="2">
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <note print-object="no">
+        <rest />
+        <duration>3063060</duration>
+        <voice>5</voice>
+        <type>32nd</type>
+        <staff>2</staff>
+      </note>
+      <note print-object="no">
+        <rest />
+        <duration>6126120</duration>
+        <voice>5</voice>
+        <type>16th</type>
+        <staff>2</staff>
+      </note>
+      <backup>
+        <duration>1531530</duration>
+      </backup>
+      <attributes>
+        <clef number="2">
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <forward>
+        <duration>1531530</duration>
+      </forward>
+      <note print-object="no">
+        <rest />
+        <duration>12252240</duration>
+        <voice>5</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+      <attributes>
+        <clef number="2">
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <note print-object="no">
+        <rest />
+        <duration>6126120</duration>
+        <voice>5</voice>
+        <type>16th</type>
+        <staff>2</staff>
+      </note>
+      <attributes>
+        <clef number="2">
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note print-object="no">
+        <rest />
+        <duration>3063060</duration>
+        <voice>5</voice>
+        <type>32nd</type>
+        <staff>2</staff>
+      </note>
+      <note print-object="no">
+        <rest />
+        <duration>3063060</duration>
+        <voice>5</voice>
+        <type>32nd</type>
+        <staff>2</staff>
+      </note>
+      <note print-object="no">
+        <rest />
+        <duration>12252240</duration>
+        <voice>5</voice>
+        <type>eighth</type>
+        <staff>2</staff>
+      </note>
+      <attributes>
+        <clef number="2">
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <note print-object="no">
+        <rest />
+        <duration>6126120</duration>
+        <voice>5</voice>
+        <type>16th</type>
+        <staff>2</staff>
+      </note>
+      <note print-object="no">
+        <rest />
+        <duration>3063060</duration>
+        <voice>5</voice>
+        <type>32nd</type>
+        <staff>2</staff>
+      </note>
+      <attributes>
+        <clef number="2">
+          <sign>F</sign>
+          <line>4</line>
+        </clef>
+      </attributes>
+      <note print-object="no">
+        <rest />
+        <duration>3063060</duration>
+        <voice>5</voice>
+        <type>32nd</type>
+        <staff>2</staff>
+      </note>
+      <backup>
+        <duration>73513440</duration>
+      </backup>
+      <note>
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>2</octave>
+        </pitch>
+        <duration>49008960</duration>
+        <voice>6</voice>
+        <type>half</type>
+        <stem>down</stem>
+        <staff>2</staff>
+        <notations>
+          <slur type="start" orientation="over" placement="above" number="2" />
+        </notations>
+      </note>
+      <note>
+        <pitch>
+          <step>C</step>
+          <octave>2</octave>
+        </pitch>
+        <duration>24504480</duration>
+        <voice>6</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        <staff>2</staff>
+        <notations>
+          <slur type="stop" number="1" />
+          <slur type="start" orientation="over" placement="above" number="3" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+</score-partwise>
